@@ -1,0 +1,26 @@
+
+/* Styles for secondary button */
+.anonymousButton {
+    background-color: #8d0101;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Styles for success button */
+.namedButton {
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.onclickButton {
+    background-color: #337fdb;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
